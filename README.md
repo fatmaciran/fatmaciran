@@ -1,16 +1,31 @@
-## Hi there 👋
+### Merhaba! 👋 Ben Fatma Ciran Akbaş
 
-<!--
-**fatmaciran/fatmaciran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bilgisayar Mühendisliği 3. sınıf öğrencisiyim ve yazılım geliştirmeye büyük bir tutkuyla bağlıyım. Akademik hayatım boyunca edindiğim bilgi ve becerileri, **analitik düşünme** ve **problem çözme** yeteneklerimle birleştirerek yenilikçi çözümler üretmeye odaklanıyorum.
 
-Here are some ideas to get you started:
+Öğrenmeye ve kendimi sürekli geliştirmeye hevesliyim. Özellikle **yazılım geliştirme** alanındaki zorlu projelerde yer alarak katkıda bulunmak en büyük hedefim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Teknolojilerim & Araçlarım:
+
+| Kategori | Teknolojiler |
+| :--- | :--- |
+| **Diller** | C++ • C • HTML • CSS |
+| **Veritabanı** | SQL |
+| **Versiyon Kontrol** | GitHub |
+
+---
+
+### 💡 İlgi Alanlarım:
+
+* **Düşük Seviyeli Programlama:** C/C++ ile sistem programlamanın temelleri.
+* **Web Teknolojileri:** HTML ve CSS ile kullanıcı arayüzü tasarımı ve geliştirme.
+* **Veritabanı Yönetimi:** SQL ile veri modelleme ve sorgulama mantığı.
+* **Yazılım Kalitesi:** Test, hata ayıklama (debugging) ve dokümantasyon pratikleri.
+
+---
+
+### 📬 Benimle İletişime Geçin:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LİNKEDİN_PROFİL_LİNKİNİZ)
+[![E-posta](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EPOSTA_ADRESİNİZ)
