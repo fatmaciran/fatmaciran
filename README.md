@@ -27,5 +27,5 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim ve yazılım geliştirmeye b
 
 ### 📬 Benimle İletişime Geçin:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LİNKEDİN_PROFİL_LİNKİNİZ)
-[![E-posta](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EPOSTA_ADRESİNİZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatma-ciran-akba%C5%9F-b800932a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![E-posta](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatmakbas8@gmail.com)
